@@ -8,15 +8,15 @@ VAISHNAVI K           -PES1UG21CS838
 
 
 # hotelManagementAppSpringBoot
-1-Technologies used to build project:-
-2-Spring Boot
-3-Spring Mvc
-4-Spring Security
-5-Validation
-6-JPA
-7-Hibernate
-8-MySql
-9-Thymeleaf
+Technologies used to build project:-
+1-Spring Boot
+2-Spring Mvc
+3-Spring Security
+4-Validation
+5-JPA
+6-Hibernate
+7-MySql
+8-Thymeleaf
 
 It is a basic hotel management application with three types of user roles (admin, manager, and employee).Thymeleaf is used as a template engine.
 
